@@ -133,3 +133,80 @@ let myValidation4 = 5 >= 4; //true
 myValidation2.toString();
 
 !myValidation4; //vai retornar a inversão do valor, nesse caso será false
+
+/*PARTE 3.4 - ARRAYS (ou vetores)
+
+- lista de elementos iteráveis (é possível fazer operações com os elementos desse array); 
+- e seu índice inicia em zero;
+- declarado por colchetes;
+
+*/
+
+    let myArray = [];
+
+    // com método .push() é possível add um item ao array:
+    myArray.push(5); //nesse caso, retornar 1, por ser o único elemento do array;
+    console.log(myArray); // vai indicar o item dentro do array, nesse caso: 5;
+
+    myArray.push(8); //agora, vai retorna 2 items (5 e 8);
+    console.log(myArray);
+
+    //método .pop() vai deletar o último item desse array;
+    myArray.pop();
+    console.log(myArray);
+
+
+    myArray.push(6, 3, 2);
+    //método .shift() vai deletar o primeiro item desse array;
+    myArray.shift();
+    // método .unshift() vai add o item no início desse array;
+    myArray.unshift(1)
+
+    //testando a parte iterável com loop for
+    for (let i; i < myArray.length; i++){
+        console.log(myArray[i]); // vai retornar cada um dos elementos desse array;
+    }
+
+/* PARTE 3.5 - OBJETOS
+
+*/
+
+let myObject = {};
+
+/*com typeOf myObject, vai retornar que esse tipo de dado 
+é composto/não primitivio, nesse caso: um objeto*/
+
+myObject.name = "Matheus"; /* vai criar a chave "name" com valor "Matheus"*/
+myObject.age = 18; /*myObject.age = 20; vai criar a chave age com valor 20*/
+
+/*com método Object.values() é possível retornar o valores internos*/
+Object.values(myObject);
+/*com método Object.keys() é possível retornar as chaves internas*/
+Object.keys(myObject);
+
+let person = {
+    name: "Matheus", age: 18, adress: "221b Baker Street"
+};
+
+person.adress; /*vai retornar "221b Baker Street"
+
+ou, pode usar a opção abaixo:
+*/
+person["adress"]; /*nesse segundo exemplo, também é possível criar uma nova chave, veja o exemplo abaixo:
+*/
+person["numberOfSimblings"] = 3;
+
+/* PARTE 3.6 - conceitos importantes
+    - empty: é um valor vazio (ex.: let number = 0; let name = ""; let myArray = [];);
+    - null: se refere a algo declarado, porém que não foi inicializado;
+    - undefined: é quando, além de não ser inicializado, não foi declarado;
+*/
+
+//se digitar no console, por exemplo, abacate:
+console.log(abacate); // retorna undefined
+
+//mas se declarar dessa forma:
+let abacate = ""; //retorna empty
+
+//porém, se declarar dessa forma:
+let abacate2; //retorna null (não chega a ser true ou false, apenas nulo mesmo)
