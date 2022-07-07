@@ -6,7 +6,7 @@ NOVO: "Atualizando README.MD";
 Na pasta "anotacoes" tem o arq. "passo-a-passo.txt" - que indica meu passo a passo na criação desse repositório;
 
 
-PASTA: praticandoCode - contém mini projetos super básicos com foco no JavaScript;
+PASTA: praticandoCode - contém mini projetos super básicos com foco no JavaScript e TypeScript;
 
 	SUBPASTAS:
 		exercise (files (Android.jpg, images.html, reactNative.jpg), contact.html, index.html);
@@ -24,6 +24,7 @@ PASTA: praticandoCode - contém mini projetos super básicos com foco no JavaScrip
 		projeto_11 (assets(css(style.css), js(script.js)), index.html);
 		projeto_12_FlexTurismo (imagens(0-main, 1-quem-somos icon-1, icon-2, icon-3), index.html, style.css);
 		projeto_13_Instagram (img(apple-button, googleplay-button, instagram-celular, instagram-logo, perfil-instagram1), index.html, style.css);
+		projeto_14_TypeScript (myTS0(desafiosResolvidosEmTS, dist, node_modulses, src, index.html, package.json, package-lock.json, teste.ts, tsconfig.json));
 	ARQUIVOS: 
 		nenhum arquivo;
 
@@ -38,6 +39,8 @@ PASTA: anotacoes - Essa subpasta contém anotações referentes ao aprendizado do V
 
 	SUBPASTAS:
 		asVariaveisEosTipos (index.js);
+		CSS_FlexBox(0-display-flex.html, 1-flex-direction.html, 2.flex-wrap.html, 3-flex-flow.html, 4-justify-content.html, 5-align-items.html, 6-align-content.html, 7-flex-grow.html, 8-flex-basis.html, 9-flex-shrink.html, 10-flex.html, 11-order.html, 13-align-self.html);
+		introAoTypeScript_1(.cache, dist, node_modules, .gitignore, index.html, index.ts, package.json, package-lock.json, scripts.ts, typings.d.ts);
 		JS_sintaxaBasica1 (firstScript.js, index.html);
 		JS_sintaxaBasica2 (sndScript.js, index2.html);
 		JS_sintaxaBasica3 (trdScript.js, index3.html);
