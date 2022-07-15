@@ -1,12 +1,12 @@
-Ol�, meu nome � Matheus Prates oliveira
+Olá, meu nome é Matheus Prates oliveira
 
 
 NOVO: "Atualizando README.MD";
 
-Na pasta "anotacoes" tem o arq. "passo-a-passo.txt" - que indica meu passo a passo na cria��o desse reposit�rio;
+Na pasta "anotacoes" tem o arq. "passo-a-passo.txt" - que indica meu passo a passo na criação desse repositório;
 
 
-PASTA: praticandoCode - cont�m mini projetos super b�sicos com foco no JavaScript e TypeScript;
+PASTA: praticandoCode - contém mini projetos super básicos com foco no JavaScript e TypeScript;
 
 	SUBPASTAS:
 		exercise (files (Android.jpg, images.html, reactNative.jpg), contact.html, index.html);
@@ -28,14 +28,14 @@ PASTA: praticandoCode - cont�m mini projetos super b�sicos com foco no JavaS
 	ARQUIVOS: 
 		nenhum arquivo;
 
-PASTA: desafiosDeCodigo - cont�m desafios de c�digo j� realizados;
+PASTA: desafiosDeCodigo - contém desafios de código já realizados;
 	
 	SUBPASTAS:
 		desafios_1e2 (desafio1.js, index.html);
 	ARQUIVOS: 
 		nenhum arquivo;
 
-PASTA: anotacoes - Essa subpasta cont�m anota��es referentes ao aprendizado do Vanilla JavaScript;
+PASTA: anotacoes - Essa subpasta contém anotações referentes ao aprendizado do Vanilla JavaScript;
 
 	SUBPASTAS:
 		asVariaveisEosTipos (index.js);
