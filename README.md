@@ -1,12 +1,12 @@
-Olá, meu nome é Matheus Prates oliveira
+Olï¿½, meu nome ï¿½ Matheus Prates oliveira
 
 
 NOVO: "Atualizando README.MD";
 
-Na pasta "anotacoes" tem o arq. "passo-a-passo.txt" - que indica meu passo a passo na criação desse repositório;
+Na pasta "anotacoes" tem o arq. "passo-a-passo.txt" - que indica meu passo a passo na criaï¿½ï¿½o desse repositï¿½rio;
 
 
-PASTA: praticandoCode - contém mini projetos super básicos com foco no JavaScript e TypeScript;
+PASTA: praticandoCode - contï¿½m mini projetos super bï¿½sicos com foco no JavaScript e TypeScript;
 
 	SUBPASTAS:
 		exercise (files (Android.jpg, images.html, reactNative.jpg), contact.html, index.html);
@@ -28,18 +28,19 @@ PASTA: praticandoCode - contém mini projetos super básicos com foco no JavaScrip
 	ARQUIVOS: 
 		nenhum arquivo;
 
-PASTA: desafiosDeCodigo - contém desafios de código já realizados;
+PASTA: desafiosDeCodigo - contï¿½m desafios de cï¿½digo jï¿½ realizados;
 	
 	SUBPASTAS:
 		desafios_1e2 (desafio1.js, index.html);
 	ARQUIVOS: 
 		nenhum arquivo;
 
-PASTA: anotacoes - Essa subpasta contém anotações referentes ao aprendizado do Vanilla JavaScript;
+PASTA: anotacoes - Essa subpasta contï¿½m anotaï¿½ï¿½es referentes ao aprendizado do Vanilla JavaScript;
 
 	SUBPASTAS:
 		asVariaveisEosTipos (index.js);
 		CSS_FlexBox(0-display-flex.html, 1-flex-direction.html, 2.flex-wrap.html, 3-flex-flow.html, 4-justify-content.html, 5-align-items.html, 6-align-content.html, 7-flex-grow.html, 8-flex-basis.html, 9-flex-shrink.html, 10-flex.html, 11-order.html, 13-align-self.html);
+		introAoReactJS (aula_1(components, configuration, jsx, lifecycle, renderization), aula_2(webpack-config), aula_3(conditional-renderization, events-maniputaltion, list-and-keys, thinking-react));
 		introAoTypeScript_1(.cache, dist, node_modules, .gitignore, index.html, index.ts, package.json, package-lock.json, scripts.ts, typings.d.ts);
 		JS_sintaxaBasica1 (firstScript.js, index.html);
 		JS_sintaxaBasica2 (sndScript.js, index2.html);
