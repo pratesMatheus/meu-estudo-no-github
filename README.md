@@ -41,6 +41,7 @@ PASTA: anotacoes - Essa subpasta contém anotações referentes ao aprendizado d
 		asVariaveisEosTipos (index.js);
 		CSS_FlexBox(0-display-flex.html, 1-flex-direction.html, 2.flex-wrap.html, 3-flex-flow.html, 4-justify-content.html, 5-align-items.html, 6-align-content.html, 7-flex-grow.html, 8-flex-basis.html, 9-flex-shrink.html, 10-flex.html, 11-order.html, 13-align-self.html);
 		introAoReactJS (aula_1(components, configuration, jsx, lifecycle, renderization), aula_2(webpack-config), aula_3(conditional-renderization, events-maniputaltion, list-and-keys, thinking-react));
+		introAOReactJS (public, src, .gitignore, package.json, README.md, yarn.lock);
 		introAoTypeScript_1(.cache, dist, node_modules, .gitignore, index.html, index.ts, package.json, package-lock.json, scripts.ts, typings.d.ts);
 		JS_sintaxaBasica1 (firstScript.js, index.html);
 		JS_sintaxaBasica2 (sndScript.js, index2.html);
