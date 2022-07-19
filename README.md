@@ -22,6 +22,7 @@ PASTA: praticandoCode - contém mini projetos super básicos com foco no JavaScr
 		projeto_13_Instagram (img(apple-button, googleplay-button, instagram-celular, instagram-logo, perfil-instagram1), index.html, style.css);
 		projeto_14_TypeScript (myTS0(desafiosResolvidosEmTS, dist, node_modulses, src, index.html, package.json, package-lock.json, teste.ts, tsconfig.json));
 		projeto_15_HooksEmReactJS-NarutoQuotes (client-side/, server-side/);
+		projeto_16_ReactJS (aula-hooks/);
 	ARQUIVOS: 
 		nenhum arquivo;
 
