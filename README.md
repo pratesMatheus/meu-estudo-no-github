@@ -1,10 +1,6 @@
-Olá, meu nome é Matheus Prates oliveira
-
-
-NOVO: "Atualizando README.MD";
+Olá, meu nome é Matheus Prates
 
 Na pasta "anotacoes" tem o arq. "passo-a-passo.txt" - que indica meu passo a passo na criação desse repositório;
-
 
 PASTA: praticandoCode - contém mini projetos super básicos com foco no JavaScript e TypeScript;
 
