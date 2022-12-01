@@ -1,3 +1,5 @@
+NOTA FINAL: Este repositório será substituído por outros novos. \O
+
 Olá, meu nome é Matheus Prates
 
 Na pasta "anotacoes" tem o arq. "passo-a-passo.txt" - que indica meu passo a passo na criação desse repositório;
